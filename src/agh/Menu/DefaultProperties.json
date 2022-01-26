@@ -1,0 +1,11 @@
+{
+  "mapWidth": 20,
+  "mapHeight": 20,
+  "jungleWidth": 6,
+  "jungleHeight": 6,
+  "grassEatingEnergyProfit": 15,
+  "dayEnergyCost": 2,
+  "copulationMinimumEnergy": 50,
+  "animalsStartEnergy": 100,
+  "startNumberOfAnimals": 5
+}

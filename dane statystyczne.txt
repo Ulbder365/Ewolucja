@@ -1,0 +1,6 @@
+Liczba zwierząt 9
+Liczba roślin 13
+Dominujący genotyp 01111112222233444444555556677777
+Średni poziom energi 66.10696248196247
+Średnia długość życia NaN
+Średnia liczba dzieci 0.9039727633477632
